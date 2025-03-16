@@ -1,0 +1,6 @@
+google-generativeai
+Pillow
+autopep8
+Flask
+python-dotenv
+gunicorn
